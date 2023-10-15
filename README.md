@@ -1,4 +1,6 @@
 ### Hi there! 👋
+- my pronouns: she/her/hers
+- currently learning computer science at NEU!
 
 <!--
 **trinaqiu/trinaqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
