@@ -1,4 +1,6 @@
+# Katrina Qiu's Resume
 
-Katrina Qiu
-Great Valley High School
-Northeastern Khoury College of Computer Science
+## Education
+**Northeastern University**, Khoury College of Computer Sciences
+*Bachelor of Science in Computer Science*
+Boston, MA | Sep 2023 - May 2027
